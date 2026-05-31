@@ -13,7 +13,7 @@ Acadêmico do curso de **Sistemas de Informação** na **FAMETRO** e estou atual
 
 ### 🛠️ Tecnologias e Ferramentas
 
-* **Linguagens de Programação:** C, JavaScript, MySQL (buscando conhecimento em C## para projeto futuro)
+* **Linguagens de Programação:** C, JavaScript, MySQL (buscando conhecimento em C# para projeto futuro)
 * **Banco de Dados:** Modelagem e manipulação de dados relacionais (SQL)
 * **Ferramentas e Design:** GitHub, VS Code, Datagrip(JetBrains), CLion, WebStorm.
 
@@ -25,5 +25,5 @@ Acadêmico do curso de **Sistemas de Informação** na **FAMETRO** e estou atual
 ---
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** [Pedro Henrique](https://www.linkedin.com/in/seu-usuario)
+- **LinkedIn:** [Pedro Henrique](www.linkedin.com/in/pedro-henrique-6a833539b)
 - **E-mail:** [pedrohenriqueruiz3931@gmail.com]
