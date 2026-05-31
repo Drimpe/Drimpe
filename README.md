@@ -25,5 +25,5 @@ Acadêmico do curso de **Sistemas de Informação** na **FAMETRO** e estou atual
 ---
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** [Pedro Henrique] (www.linkedin.com/in/pedro-henrique-6a833539b)
+- **LinkedIn:** [Pedro Henrique](www.linkedin.com/in/pedro-henrique-6a833539b)
 - **E-mail:** [pedrohenriqueruiz3931@gmail.com]
