@@ -1,6 +1,6 @@
 # Oi, me chamo Pedro Henrique 👋
 
-Acadêmico do curso de **Sistemas de Informação** na **FAMETRO** e estou atualmente no **3° Semestre**. Gosto muito de tecnologias, acho o ramo de desenvolvimento de softwares muito interessante e fascinante, e tenho como meta profissional ser um desenvolvedor de jogos renomado e experiente, estou sempre focado em aprender e aplicar o uso de soluções práticas e otimizadas aos desafios propostos.
+Acadêmico do curso de **Sistemas de Informação** na **FAMETRO** atualmente no **3° Semestre**. Gosto muito de tecnologias, acho o ramo de desenvolvimento de softwares muito interessante e fascinante, e tenho como meta profissional ser um desenvolvedor de jogos renomado e experiente, estou sempre focado em aprender e aplicar o uso de soluções práticas e otimizadas aos desafios propostos.
 
 ---
 
