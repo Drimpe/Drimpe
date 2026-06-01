@@ -8,6 +8,7 @@ Acadêmico do curso de **Sistemas de Informação** na **FAMETRO** atualmente no
 - 🎓 Graduando em Sistemas de Informação, aprofundando conhecimentos em redes, arquitetura de computadores e estruturas de dados.
 - 🚀 Experiência prática com desenvolvimento de projetos acadêmicos, incluindo a criação e apresentação de soluções tecnológicas em eventos universitários (Inovatech - Fametro).
 - 🛠️ Buscando constante evolução técnica através de projetos práticos sempre postados no GitHub, cursos de capacitação e desafios de programação.
+- 📼 Faço edições de vídeos para o YouTube ou vídeos profissionais em que o cliente pedir.
 
 ---
 
@@ -27,3 +28,4 @@ Acadêmico do curso de **Sistemas de Informação** na **FAMETRO** atualmente no
 ### 📫 Como me encontrar:
 - **LinkedIn:** [Pedro Henrique] (www.linkedin.com/in/pedro-henrique-6a833539b)
 - **E-mail:** [pedrohenriqueruiz3931@gmail.com]
+- **YouTube:** [Drimpeyeah](https://youtube.com/@drimpe?si=E9hWasyIFqST-XJz)
